@@ -4,7 +4,8 @@
 
 Languages:
 Lua 🟢
-Python 🟡
+Python 🟢
+C++ 🟡
 Javascript / Web API 🟠
 Html 🟠
 Java 🟠
