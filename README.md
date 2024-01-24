@@ -6,6 +6,6 @@ Languages:<br>
 🟢 Lua<br>
 🟢 Python<br>
 🟡 C++<br>
-🟠 Javascript / Web API<br>
+🟠 Javascript<br>
 🟠 Html<br>
 🟠 Java<br>
